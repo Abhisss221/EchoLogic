@@ -1,0 +1,7 @@
+let me explain how our ears process sound—it’s actually pretty fascinating! So, the ear has three main parts: the outer ear, the middle ear, and the inner ear.
+
+First, in the outer ear, sound waves travel into your ear and hit this thin membrane called the eardrum. The eardrum vibrates depending on the loudness and pitch of the sound—it’s like a drum being played by the air.
+
+Next, those vibrations move into the middle ear. This part acts a bit like a filter, letting certain frequencies pass through while dampening others. Think of it as the bouncer at a concert, deciding what gets in.
+
+Finally, we have the inner ear. This is where the magic happens! Inside, there’s this coiled structure called the cochlea, which has a basilar membrane running through it. The basilar membrane is like your personal spectrum analyzer—it’s sensitive to different frequencies at different spots. That’s how you can distinguish between, say, a high-pitched violin and a deep bass drum.
