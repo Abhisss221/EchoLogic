@@ -1,4 +1,4 @@
-# EchoLogic: Your Beginner-Friendly Guide to Audio Processing 🎵
+## EchoLogic: Your Beginner-Friendly Guide to Audio Processing 🎵
 
 Welcome to **EchoLogic**, your ultimate companion for learning and exploring the fascinating world of audio processing. Whether you're a novice or a hobbyist, this repository is crafted to make audio processing accessible and enjoyable.
 
